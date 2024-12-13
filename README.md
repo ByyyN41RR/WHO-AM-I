@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Fernando Rodríguez 
+# 👋 Hello, I'm Adrian Rodriguez
 🛡️ Cybersecurity Analyst | SOC/SIEM Specialist | Threat Detection & Response
  
 🔍 Core Skills:
